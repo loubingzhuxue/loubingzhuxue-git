@@ -1,2 +1,2 @@
-console.log('Git');
-console.log('js');
+console.log('Git')
+console.log('js')
